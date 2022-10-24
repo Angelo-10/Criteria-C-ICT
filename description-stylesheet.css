@@ -1,0 +1,25 @@
+body {
+  background-color: #DCFDE2;
+}
+.Banner {
+  height: 440px;
+}
+.Title {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+  font-size: 40pt;
+}
+.Para {
+  font-family: Garamond, serif;
+  font-size: 14pt;
+}
+.BT {
+  background-color: #DCFDE2;
+  position: relative;
+  height: 35px;
+  width: 60px;
+  font-size: 13pt;
+  text-align: center;
+border-color: #DCFDE2;
+border-width: medium;
+}

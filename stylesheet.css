@@ -1,0 +1,59 @@
+ body {
+    background-color: #fee9da;
+  }
+  .section {
+  box-sizing:content-box;
+  border: 10px solid blue;
+  width: 100px;
+  float: none;
+}
+.marquee {
+  height: 75px;
+  color: #ffe9da ;
+  font-family: arial italic ;
+  font-size: 300% ;
+  font-weight: bold ;
+  text-align: center ;
+  border:#ffe9da ;
+  margin: 1px ;
+  top: 1;
+  align-self:flex-start;
+  position: relative;
+}
+.NOC {
+  height: 150px;
+  position: relative;
+}
+.table, th, td {
+  border: 1px solid black;
+  align: center;
+  text-align: center;
+}
+.GPU {
+  width: 500px;
+}
+.PC {
+  width: 500px;
+}
+.RAM {
+  width: 375px;
+}
+.PSU {
+  width: 375px;
+}
+.MB {
+  width: 375px;
+}
+.SSD {
+  width: 375px;
+}
+.CS {
+  width: 375px;
+  height: 230px;
+}
+.CPU {
+  width: 400px;
+}
+.MT {
+  width: 375px;
+}
